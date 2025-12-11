@@ -42,12 +42,7 @@ O objetivo deste projeto é evoluir para um modelo de API profissional, servindo
 
 <br>
 
-<h2 align="center">
-  <span style="font-weight: bold; font-size: 26px;">
-    💻 Tecnologias 
-  </span>
-</h2>
-
+<h2 align="center" style="font-weight: bold; font-size: 26px;">💻 Tecnologias</h2>
 
 <p align="center">
   <!-- Java -->
@@ -62,8 +57,9 @@ O objetivo deste projeto é evoluir para um modelo de API profissional, servindo
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
 
-
+  
 </p>
+
 
 
 📫 Como falar comigo
