@@ -1,4 +1,10 @@
-🚀# Lucas Pires | Backend Developer (Java)
+
+<h1 align="center">
+  <span style="color:#4CAF50; font-weight:bold;">
+    🚀 Lucas Pires | Backend Developer (Java)
+  </span>
+</h1>
+
 
 
 Sou um desenvolvedor backend em formação, focado em construir APIs robustas usando Java e Spring Boot.
