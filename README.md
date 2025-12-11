@@ -22,13 +22,14 @@ Atualmente estou evoluindo meu conhecimento diariamente, estudando <strong>Java<
   
   <p style="max-width: 700px; text-align: left;">
     API de pagamentos desenvolvida com foco em arquitetura limpa, boas práticas e evolução contínua.<br>
-    Ela gerencia solicitações de pagamento, permitindo criar, consultar, atualizar e processar transações com status específicos (<strong>PENDING</strong>, <strong>PAID</strong>, <strong>FAILED</strong>).<br><br>
+    Ela gerencia solicitações de pagamento, permitindo criar, consultar, atualizar e processar transações com status específicos (<strong>PENDING</strong>, <strong>PAID</strong>, <strong>FAILED</strong>).<br>
 
   Construída utilizando <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Spring Web</strong>, 
 <strong>Spring Data JPA</strong>, <strong>Hibernate</strong> e <strong>PostgreSQL</strong>.<br>
-Aplica DTOs, regras de negócio encapsuladas em camada de serviço e uma estrutura modular pensada para manutenção e escalabilidade.<br><br>
+Aplica DTOs, regras de negócio encapsuladas em camada de serviço e uma estrutura modular pensada para manutenção e escalabilidade.<br>
 
 Este projeto está em evolução contínua e serve como base sólida para estudar arquitetura, padrões e boas práticas no ecossistema Java.
+<br>
 
   </p>
 
