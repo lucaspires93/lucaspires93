@@ -19,10 +19,10 @@ Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring,
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3><strong>🔹 SimplePaymentAPI</strong></h3>
   
-  <p style="max-width: 600px; text-align: center;">
+  <p style="max-width: 600px; text-align: left;">
     API de pagamentos construída com foco em boas práticas, estrutura limpa e evolução contínua.<br>
     Inclui CRUD completo, DTOs, MapStruct (em evolução), tratamento de exceções, arquitetura organizada e documentação via Swagger.<br><br>
     Estou constantemente melhorando esta API para torná-la um projeto profissional de portfólio.
@@ -35,6 +35,7 @@ Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring,
   </a>
 </div>
 
+<br>
 
 <h2 align="center">
   <span style="font-weight: bold; font-size: 26px;">
