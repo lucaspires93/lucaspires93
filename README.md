@@ -11,15 +11,30 @@ Sou um desenvolvedor backend em formação, focado em construir APIs robustas us
 Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring, Arquitetura, boas práticas de engenharia, entre outros.
 
 
-📌 Projetos em Destaque
-🔹 SimplePaymentAPI
+<h2 align="center">
+  <span style="font-weight: bold; font-size: 26px; color:#95a5a6;">
+    📌 Projetos em Destaque
+  </span>
+</h2>
 
-API de pagamentos construída com foco em boas práticas, estrutura limpa e evolução contínua.
-Inclui CRUD completo, DTOs, MapStruct (em evolução), tratamento de exceções, arquitetura organizada e documentação via Swagger.
+<br>
 
-Estou constantemente melhorando esta API para torná-la um projeto profissional de portfólio.
+<div align="center">
+  <h3><strong>🔹 SimplePaymentAPI</strong></h3>
+  
+  <p style="max-width: 600px; text-align: center;">
+    API de pagamentos construída com foco em boas práticas, estrutura limpa e evolução contínua.<br>
+    Inclui CRUD completo, DTOs, MapStruct (em evolução), tratamento de exceções, arquitetura organizada e documentação via Swagger.<br><br>
+    Estou constantemente melhorando esta API para torná-la um projeto profissional de portfólio.
+  </p>
 
-🔗 Repositório: https://github.com/lucaspires93/SimplePaymentAPI
+  <a href="https://github.com/lucaspires93/SimplePaymentAPI" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🔗%20Repositório%20no%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
+    />
+  </a>
+</div>
+
 
 <h2 align="center">
   <span style="font-weight: bold; font-size: 26px;">
