@@ -21,7 +21,12 @@ Estou constantemente melhorando esta API para torná-la um projeto profissional 
 
 🔗 Repositório: https://github.com/lucaspires93/SimplePaymentAPI
 
-<h2 align="center">💻 Tecnologias que uso</h2>
+<h2 align="center">
+  <span style="font-weight: bold; font-size: 26px;">
+    💻 Tecnologias 
+  </span>
+</h2>
+
 
 <p align="center">
   <!-- Java -->
@@ -29,9 +34,6 @@ Estou constantemente melhorando esta API para torná-la um projeto profissional 
 
   <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring"/>
-
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman"/>
 
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
