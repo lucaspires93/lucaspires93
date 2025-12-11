@@ -27,7 +27,7 @@ Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring,
 Responsável por gerenciar solicitações de pagamento, permitindo criar, consultar, atualizar e processar transações com status específicos (PENDING, PAID, FAILED).<br>
 
 Construída utilizando **Java**, **Spring Boot**, **Spring Web**, **Spring Data JPA**, **Hibernate** e **PostgreSQL**.<br>
-Implementa DTOs, regras de negócio encapsuladas na camada de serviço, tratamento consistente de erros e uma estrutura modular pensada para facilitar manutenção e escalabilidade.<br>
+Implementa DTOs, regras de negócio encapsuladas na camada de serviço e uma estrutura modular pensada para facilitar manutenção e escalabilidade.<br>
 
 O objetivo deste projeto é evoluir para um modelo de API profissional, servindo como base sólida para aprendizagem de padrões, arquitetura e boas práticas do ecossistema Java.
 
