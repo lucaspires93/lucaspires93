@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="color:#4CAF50; font-weight:bold;">
+  <span style="color:#95a5a6; font-weight:bold;">
     🚀 Lucas Pires | Backend Developer (Java)
   </span>
 </h1>
