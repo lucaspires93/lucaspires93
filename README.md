@@ -40,7 +40,7 @@ Este projeto está em evolução contínua e serve como base sólida para estuda
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center" style="font-weight: bold; font-size: 26px; color:#95a5a6;">💻 Tecnologias</h2>
 
@@ -60,14 +60,14 @@ Este projeto está em evolução contínua e serve como base sólida para estuda
 
 <br><br>
 
-<h2 align="center" style="font-weight: bold; font-size: 22px; color:#95a5a6;">📫 Como falar comigo</h2>
+<h2 align="left" style="font-weight: bold; font-size: 22px; color:#95a5a6;">📫 Como falar comigo</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/lucas-pires-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 📧 <strong>Email:</strong> contato.lucaspires93@gmail.com
 </p>
