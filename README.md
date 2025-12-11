@@ -8,7 +8,7 @@
 
 
 Sou um desenvolvedor backend em formação, focado em construir APIs robustas usando Java e Spring Boot.
-Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring, Arquitetura,boas práticas de engenharia, entre outros.
+Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring, Arquitetura, boas práticas de engenharia, entre outros.
 
 
 📌 Projetos em Destaque
