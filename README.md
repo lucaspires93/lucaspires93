@@ -10,7 +10,7 @@
 Sou um desenvolvedor backend em formação, focado em construir APIs robustas usando Java e Spring Boot.
 Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring, Arquitetura, boas práticas de engenharia, entre outros.
 
-
+<br>
 <h2 align="left">
   <span style="font-weight: bold; font-size: 26px; color:#95a5a6;">
     📌 Projetos em Destaque
