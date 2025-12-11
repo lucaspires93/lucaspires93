@@ -11,13 +11,13 @@ Sou um desenvolvedor backend em formação, focado em construir APIs robustas us
 Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring, Arquitetura, boas práticas de engenharia, entre outros.
 
 <br>
-<h2 align="center">
+<h2 align="left">
   <span style="font-weight: bold; font-size: 26px; color:#95a5a6;">
     📌 Projetos em Destaque
   </span>
 </h2>
 
-<br>
+
 
 <div align="left">
   <h3><strong>🔹 SimplePaymentAPI</strong></h3>
