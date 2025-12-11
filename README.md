@@ -1,4 +1,4 @@
-🚀 Lucas Pires | Backend Developer (Java)
+#🚀 Lucas Pires | Backend Developer (Java)
 
 
 Sou um desenvolvedor backend em formação, focado em construir APIs robustas usando Java e Spring Boot.
