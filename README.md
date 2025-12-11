@@ -23,9 +23,14 @@ Atualmente estou evoluindo meu conhecimento, estudando diariamente Java, Spring,
   <h3><strong>🔹 SimplePaymentAPI</strong></h3>
   
   <p style="max-width: 600px; text-align: left;">
-    API de pagamentos construída com foco em boas práticas, estrutura limpa e evolução contínua.<br>
-    Inclui CRUD completo, DTOs, MapStruct (em evolução), tratamento de exceções, arquitetura organizada e documentação via Swagger.<br><br>
-    Estou constantemente melhorando esta API para torná-la um projeto profissional de portfólio.
+   API de pagamentos desenvolvida com foco em arquitetura limpa, boas práticas e evolução contínua.<br>
+Responsável por gerenciar solicitações de pagamento, permitindo criar, consultar, atualizar e processar transações com status específicos (PENDING, APPROVED, FAILED).<br><br>
+
+Construída utilizando **Java**, **Spring Boot**, **Spring Web**, **Spring Data JPA**, **Hibernate** e **PostgreSQL**.<br>
+Implementa DTOs, regras de negócio encapsuladas na camada de serviço, tratamento consistente de erros e uma estrutura modular pensada para facilitar manutenção e escalabilidade.<br><br>
+
+O objetivo deste projeto é evoluir para um modelo de API profissional, servindo como base sólida para aprendizagem de padrões, arquitetura e boas práticas do ecossistema Java.
+
   </p>
 
   <a href="https://github.com/lucaspires93/SimplePaymentAPI" target="_blank">
