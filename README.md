@@ -58,7 +58,7 @@ Este projeto está em evolução contínua e serve como base sólida para estuda
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="left" style="font-weight: bold; font-size: 22px; color:#95a5a6;">📫 Como falar comigo</h2>
 
@@ -67,7 +67,7 @@ Este projeto está em evolução contínua e serve como base sólida para estuda
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br>
+
 
 📧 <strong>Email:</strong> contato.lucaspires93@gmail.com
 </p>
