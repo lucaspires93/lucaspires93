@@ -54,7 +54,9 @@ Este projeto está em evolução contínua e serve como base sólida para estuda
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
 
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="55" height="55" alt="MySQL"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
+
 
 </p>
 
